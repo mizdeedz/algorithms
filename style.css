@@ -1,0 +1,112 @@
+body {
+    margin: 0px;
+    background-image: url('bg.png');
+    color: #000000;
+    font-family: sans-serif.Calibri;
+}
+
+.header {
+    background-color: #5d6b7b;
+    padding-top: 20px;
+    height: 200px;
+    text-align: center;
+    text-transform: uppercase;
+    color: white;
+    font-size: 24px;
+}
+
+.section {
+    background-color: #ffffff;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+.coffee {
+    background-image: url("bg_coffee.PNG");
+    color: white;
+}
+
+hr {
+    width: 800px;
+}
+
+
+/*# first group of examples*/
+/*h1 {*/
+/*    color: green;*/
+/*}*/
+
+/*.title-red {*/
+/*    color: red;*/
+/*}*/
+
+/*.title-blue {*/
+/*    color: blue;*/
+/*}*/
+
+/*#title {*/
+/*    background-color: black;*/
+/*    color: #FFFFFF;*/
+/*}*/
+
+/*#title.title-red {*/
+/*    background-color: black;*/
+/*    color: #FFFFFF;*/
+/*}*/
+
+
+/*# second group of examples*/
+/*li {*/
+/*    background-color: black;*/
+/*    color: white;*/
+/*}*/
+
+/*div li {*/
+/*    color: yellow;*/
+/*}*/
+
+
+/*# third group of examples*/
+/*.title {*/
+/*    background-color: black;*/
+/*    color: red;*/
+/*}*/
+
+/*.big, .large {*/
+/*    font-size: 400%;*/
+/*}*/
+
+
+/*# fourth group of examples*/
+/*.box {*/
+/*    height: 100px;*/
+/*    width: 100px;*/
+/*    padding: 20px;*/
+/*    margin: 50px;*/
+/*    border: 10px solid black;*/
+/*    background-color: red;*/
+/*}*/
+
+
+/*# fifth group of examples*/
+/*a:link {*/
+/*    color: red;*/
+/*    background-color: black;*/
+/*}*/
+
+/*a:visited {*/
+/*    color: red;*/
+/*    background-color: black;*/
+/*}*/
+
+/*a:hover {*/
+/*        color: red;*/
+/*    background-color: gray;*/
+/*}*/
+
+/*a:active {*/
+/*    color: red;*/
+/*    background-color: black;*/
+/*}*/
