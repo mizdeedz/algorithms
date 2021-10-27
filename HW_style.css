@@ -1,0 +1,35 @@
+body {
+    background-image: url("hw_bg.jpg");
+    font-family: sans-serif.Calibri;
+}
+
+.page-title {
+    text-align: center;
+    background-color: darkgoldenrod;
+    height: 50px;
+    padding-top: 20px;
+}
+
+h4 {
+    background-color: darkgoldenrod;
+    width: 100px;
+    text-align: center;
+    height: 30px;
+    padding-top: 10px;
+}
+
+.table-data,.steps {
+    background-color: darkgoldenrod;
+    color: antiquewhite;
+}
+
+.table-data {
+    width: 300px;
+}
+
+.steps {
+    width: 1100px;
+    height: 175px;
+    padding-top: 15px;
+    padding-bottom: 10px;
+}
