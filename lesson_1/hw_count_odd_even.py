@@ -14,4 +14,27 @@ for n in str(num):
     else:
         even_count += 1
 
+
 print(f'There are {odd_count} odd numbers and {even_count} even numbers')
+
+
+# Alternate (Instructor) Solution #1
+# O()
+
+# def count_odd_even(number):
+#     odds = 0
+#     evens = 0
+#
+#     while number != 0:
+#         current_digit = number % 10
+#         if current_digit % 2:
+#             odds += 1
+#         else:
+#             evens += 1
+#         number = number // 10
+#
+#     return ['Evens: ' + str(evens), 'Odds: ' + str(odds)]
+#
+#
+# number = int(input('Enter your number: '))
+# print(count_odd_even(number))

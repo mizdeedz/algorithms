@@ -18,3 +18,22 @@ def below_mean(arr):
 
 test_list = [1, 3, 5, 6, 4, 10, 2, 3]
 print(below_mean(test_list))
+
+
+# Alternate (Instructor) Solution #1
+# O(n)
+
+# def below_mean(arr):
+#     arr_mean = sum(arr) / len(arr)
+#     final_list = []
+#
+#     for num in arr:
+#         if num < arr_mean:
+#             final_list.append(num)
+#
+#     return final_list
+#
+#
+# list_to_test() = []
+# print(list_to_test)
+# print(below_mean(list_to_test))

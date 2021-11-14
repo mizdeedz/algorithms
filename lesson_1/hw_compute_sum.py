@@ -11,4 +11,25 @@ result = 0
 for n in range(1, num + 1):
     result += n
 
+
 print(f'The sum is {result}')
+
+
+# Alternate (Instructor) Solution #1
+# O(n)
+
+# def sum_n(n):
+#     final_result = 0
+#     for x in range(n + 1):
+#         final_result = final_result + x
+#     return final_result
+#
+# number = int(input('Provide your number: '))
+# print(sum_n(number))
+
+
+# Alternate (Instructor) Solution #2
+# O(1)
+
+# def sum_n(n):
+#     return (n * (n + 1)) / 2
